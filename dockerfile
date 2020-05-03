@@ -1,3 +1,3 @@
-FROM tdev111/mydoc
+FROM _/httpd
 ADD . /var/www/html
 
