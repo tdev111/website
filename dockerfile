@@ -1,4 +1,4 @@
-FROM library/tomcat
+FROM hshar/webapp
 
 ADD . /var/www/html
 
