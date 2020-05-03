@@ -1,4 +1,4 @@
-FROM httpd:2.4
+FROM library/tomcat
 
 ADD . /var/www/html
 
